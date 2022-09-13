@@ -16,4 +16,6 @@
 # Användaren får bara en gissning.
 # Om du vill göra överkurs kan du kolla upp loopar som gås igenom i nästa
 # modul, så användaren kan gissa flera gånger. Men det är inget krav.
+#
+# GLÖM INTE FLÖDESSCHEMAT!
 # Din kod nedan.

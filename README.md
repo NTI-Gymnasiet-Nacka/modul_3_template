@@ -45,9 +45,15 @@ Exempel:
 """
 ```
 
-## Skattkammarön
+## Flödesschema
 
-Flödesschemat för uppgiften
+För denna modul krävs även att du gör flödesschema för vissa uppgifter. Gör så då att du besöker [draw.io](https://draw.io/) och ritar upp flöden för följande uppgifter som du sedan lägger i detta repo som .png-filer.
+
+- Uppgift 1: Gissa tal
+- Uppgift 4: BMI 2.0
+- Uppgift 8: Trelia
+
+## Flödesschema för Skattkammarön
 
 ![skattkammaron drawio](https://user-images.githubusercontent.com/101513815/189910475-585de9c5-4e4e-4b26-b33e-3dca08111daf.png)
 

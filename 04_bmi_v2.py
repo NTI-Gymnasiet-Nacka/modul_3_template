@@ -9,4 +9,6 @@
 # vilken klassifikation de hamnar i, dvs.
 # underviktig, normalvikt, övervikt eller fetma.
 # Googla upp värdena för de olika intervallen.
+#
+# GLÖM INTE FLÖDESSCHEMAT!
 # Din kod nedan.
