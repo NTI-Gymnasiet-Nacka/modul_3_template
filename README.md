@@ -6,9 +6,9 @@ Denna modul kommer att avhandla följande:
 
 - Kontrollstrukturen för IF-satser
 - Villkor såsom
-  - >
+  - \>
   - <
-  - >=
+  - \>=
   - <=
   - and
   - or
@@ -44,6 +44,11 @@ Exempel:
     .
 """
 ```
+
+## Skattkammarön
+
+Flödesschemat för uppgiften
+![skattkammaron drawio](https://user-images.githubusercontent.com/101513815/189910475-585de9c5-4e4e-4b26-b33e-3dca08111daf.png)
 
 ## Författare
 
