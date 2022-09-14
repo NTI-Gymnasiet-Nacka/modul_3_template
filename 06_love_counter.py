@@ -31,6 +31,6 @@
     Totalt: 3
     
     Love score = 53
-    Printar: "Your score is 53, you are alright together."
+    Printar: "Your score is 53."
 """
 # Din kod nedan
