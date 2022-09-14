@@ -55,7 +55,7 @@ För denna modul krävs även att du gör flödesschema för vissa uppgifter. G�
 
 ## Flödesschema för Skattkammarön
 
-![skattkammaron drawio](https://user-images.githubusercontent.com/101513815/189910475-585de9c5-4e4e-4b26-b33e-3dca08111daf.png)
+![skattkammaron drawio](https://user-images.githubusercontent.com/101513815/190080379-bf3a58bd-375d-4d5a-bd65-152f604c05a1.png)
 
 ## Författare
 
