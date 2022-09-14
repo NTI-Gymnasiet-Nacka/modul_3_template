@@ -49,7 +49,7 @@ Exempel:
 
 För denna modul krävs även att du gör flödesschema för vissa uppgifter. Gör så då att du besöker [draw.io](https://draw.io/) och ritar upp flöden för följande uppgifter som du sedan lägger i detta repo som .png-filer.
 
-- Uppgift 1: Gissa tal
+- Uppgift 1: Jämnt eller udda v2
 - Uppgift 4: BMI 2.0
 - Uppgift 8: Trelia
 
