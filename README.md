@@ -15,6 +15,11 @@ Denna modul kommer att avhandla följande:
   - not
 - Nästlade if-satser
 - Några typ-funktioner
+  - count
+  - lower
+  - upper
+  - capitalize
+- if in-statement
 
 Se till att ändra i kommentarerna så de innehåller korrekt information om dig, dvs datumet du påbörjade uppgiften, vem du är och din klass.
 
